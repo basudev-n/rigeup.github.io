@@ -1,7 +1,7 @@
 {
-  "name": "crafto",
+  "name": "Rigeup",
   "version": "1.0.0",
-  "description": "The Multipurpose HTML5 Template",
+  "description": "Creative Digital Agency",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
