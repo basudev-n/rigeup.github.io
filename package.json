@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ThemeZaa",
+  "author": "Rigeup",
   "license": "ISC",
   "devDependencies": {
     "cssnano": "^6.0.1",
